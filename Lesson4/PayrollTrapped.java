@@ -1,3 +1,5 @@
+/* Last modified: 2022-10-07 */
+
 import java.util.Scanner;
 
 public class PayrollTrapped {

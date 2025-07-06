@@ -1,3 +1,5 @@
+/* Last modified: 2022-10-11 */
+
 import java.util.Random;
 import java.util.Scanner;
 

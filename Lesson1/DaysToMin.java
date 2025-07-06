@@ -1,3 +1,5 @@
+/* Last modified: 2022-08-27 */
+
 import java.util.Scanner;
 
 public class DaysToMin {

@@ -1,3 +1,5 @@
+/* Last modified: 2022-08-31 */
+
 import java.util.Scanner;
 
 public class payroll {

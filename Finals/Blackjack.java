@@ -1,3 +1,5 @@
+/* Last modified: 2023-01-30 */
+
 import java.util.Random;
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;

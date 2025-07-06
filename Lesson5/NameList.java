@@ -1,3 +1,5 @@
+/* Last modified: 2022-10-21 */
+
 import java.util.Scanner;
 
 public class NameList {

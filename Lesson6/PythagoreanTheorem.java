@@ -1,3 +1,5 @@
+/* Last modified: 2022-10-29 */
+
 import java.util.Scanner;
 
 public class PythagoreanTheorem {
